@@ -101,6 +101,7 @@ nav a.active{
 section{
     min-height: 100vh;
     padding: 5rem 9% 5rem;
+
 }
 
 .home{
@@ -109,6 +110,7 @@ section{
     align-items: center;
     gap: 8rem;
     background-color: black;
+
 }
 
 .home .home-content h1{
@@ -226,19 +228,19 @@ span{
 
 @keyframes words{
     0%, 20%{
-        content:'Web Developer';
+        content:'Full Stack';
     }
     21%, 40%{
         content: 'Developer';
     }
     41%, 60%{
-        content: 'Web Designer';
+        content: 'Dog Owner';
     }
     61%, 80%{
-        content: 'Youtuber';
+        content: 'Guaranian';
     }
     81%, 100%{
-        content: 'Script Writer';
+        content: 'Shar Pei Lover <3';
     }
 }
 
